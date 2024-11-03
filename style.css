@@ -15,3 +15,75 @@
     background-color: antiquewhite;
 }
 
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    height: 70px;
+    background-color: antiquewhite;
+}
+
+.img {
+    width: 100px;
+    height: 20px;
+}
+
+.ul {
+    display: flex;
+    gap: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    color: #222;
+    list-style: none;
+    
+}
+
+.link {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    color: #222;
+}
+
+.button1 {
+    border-radius: 4px;
+    padding: 12px 24px;
+    width: 120px;
+    height: 48px;
+    background: #086cf9;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+}
+
+.imgg {
+    width: 1440px;
+    height: 834px;
+    background-color: antiquewhite;
+}
+
+.dir {
+    width: 1152px;
+    height: 433px;
+    background-color: antiquewhite;
+    display: flex;
+    gap: 20px;
+}
+
+.diven {
+    width: 519px;
+    height: 433px;
+}
+
+.divbtn {
+    border-radius: 4px;
+    width: 595px;
+    height: 433px;
+}
+
+.container-hero {
+    display: flex;
+    gap: 40px;
+}
